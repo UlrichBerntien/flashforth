@@ -20,3 +20,7 @@
 /FF_UART_K42.X/dist/
 /pic18/FF_UART_K42_K83.X/build/
 /pic18/FF_UART_K42_K83.X/dist/
+
+# Python byte-compiled
+__pycache__/
+*.py[cod]
